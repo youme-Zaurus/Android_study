@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">My Application_20211021_3</string>
+
+    <string-array name="category">
+        <item>バラエティ</item>
+        <item>ドラマ(日本)</item>
+        <item>韓ドラ</item>
+        <item>ドラマ(米国)</item>
+        <item>その他の国のドラマ</item>
+        <item>邦画</item>
+        <item>洋画</item>
+        <item>映画(韓国)</item>
+        <item>インド映画</item>
+        <item>その他の国の映画</item>
+    </string-array>
+
+    <string-array name="drink">
+        <item>ソフトドリンク</item>
+        <item>アルコール</item>
+        <item>水</item>
+    </string-array>
+
+    <string name="rb_man">男</string>
+    <string name="rb_woman">女</string>
+    <string name="rb_none">回答しない</string>
+</resources>
